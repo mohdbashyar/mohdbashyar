@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science Student at **International Islamic University Malaysia (IIUM)**
-- 💡 Interested in **Applied AI, Computer Vision, and Data Infrastructure**
+- 💡 Interested in **Applied AI and Data Infrastructure**
 - ⚡ Fun fact: **I think I am funny. Actually, I am. I think so..**
 
 ---

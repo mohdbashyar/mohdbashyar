@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/muhammad-bashyar-kamarul-anuar-4b2020413/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://bashyar-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -14,6 +17,13 @@
 - 🎓 Computer Science Student at **International Islamic University Malaysia (IIUM)**
 - 💡 Interested in **Applied AI and Data Infrastructure**
 - ⚡ Fun fact: **I think I am funny. Actually, I am. I think so..**
+
+---
+
+### 🌐 Portfolio
+
+Check out my portfolio website:  
+👉 [bashyar-portfolio.vercel.app](https://bashyar-portfolio.vercel.app)
 
 ---
 

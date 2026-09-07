@@ -23,6 +23,19 @@
 
 ### 📁 Featured Projects
 
+#### **Autonomous Flood Response Digital Twin & MARL Drone Swarm**
+*Mar 2026 – Present | Supervised by Prof. Amelia Ritahani*
+
+An end-to-end Digital Twin and Multi-Agent Reinforcement Learning framework for autonomous drone swarm search-and-rescue operations.
+
+- **Achievement**: 93.3% success rate in target acquisition scenarios
+- **Tech Stack**: Python • PyTorch • Ray RLlib (PPO) • PyBullet • Google Earth Engine • Sentinel-1 SAR
+- **Key Features**: 3D terrain reconstruction from satellite imagery, shared spatial memory map for N=3 UAV swarm
+- **Live Demo**: https://marl-bashyar-adam-innovatex.vercel.app/
+- **Status**: Private repository (ongoing FYP 2 research)
+
+---
+
 #### **Financial Machine Learning & Generative AI Pipeline**
 *Microservice Architecture for Automated Financial Analysis*
 
@@ -43,19 +56,6 @@ A production-ready ML system identifying high-risk product returns and triggerin
 - **Tech Stack**: Scikit-Learn • FastAPI • Streamlit • Docker • pytest
 - **Key Features**: Random Forest classifier, Pydantic validation, REST API, interactive dashboard
 - **Repository**: [mohdbashyar/ecommerce-return-risk-api](https://github.com/mohdbashyar/ecommerce-return-risk-api)
-
----
-
-#### **Autonomous Flood Response Digital Twin & MARL Drone Swarm**
-*Mar 2026 – Present | Supervised by Prof. Amelia Ritahani*
-
-An end-to-end Digital Twin and Multi-Agent Reinforcement Learning framework for autonomous drone swarm search-and-rescue operations.
-
-- **Achievement**: 93.3% success rate in target acquisition scenarios
-- **Tech Stack**: Python • PyTorch • Ray RLlib (PPO) • PyBullet • Google Earth Engine • Sentinel-1 SAR
-- **Key Features**: 3D terrain reconstruction from satellite imagery, shared spatial memory map for N=3 UAV swarm
-- **Live Demo**: https://marl-bashyar-adam-innovatex.vercel.app/
-- **Status**: Private repository (ongoing FYP 2 research)
 
 ---
 

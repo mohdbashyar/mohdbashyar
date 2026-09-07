@@ -61,7 +61,7 @@ A production-ready ML system identifying high-risk product returns and triggerin
 
 ### 🌐 Portfolio
 
-Check out my portfolio website with live demos and more projects:  
+Check out my portfolio website for future updates / blogs:  
 👉 [bashyar.vercel.app](https://bashyar.vercel.app)
 
 ---

@@ -43,7 +43,7 @@ A production-ready ML system identifying high-risk product returns and triggerin
 - **Accuracy**: 88.2% precision with 0.94 ROC-AUC
 - **Tech Stack**: Scikit-Learn • FastAPI • Streamlit • Docker • pytest
 - **Key Features**: Random Forest classifier, Pydantic validation, REST API, interactive dashboard
-- **Live Demo & Code**: [Available on portfolio](https://bashyar.vercel.app)
+- **Repository**: [mohdbashyar/ecommerce-return-risk-api](https://github.com/mohdbashyar/ecommerce-return-risk-api)
 
 ---
 
@@ -54,7 +54,7 @@ End-to-end financial ML microservice connecting predictive telemetry with genera
 
 - **Tech Stack**: XGBoost • Google Gemini 2.5 • ChromaDB • MLflow • FastAPI • Streamlit • Docker • PostgreSQL
 - **Key Features**: Live OHLCV market ingestion, FinBERT sentiment scoring, natural language financial analysis, vector search
-- **Live Demo & Code**: [Available on portfolio](https://bashyar.vercel.app)
+- **Repository**: [mohdbashyar/financial-mle-pipeline](https://github.com/mohdbashyar/financial-mle-pipeline)
 
 ---
 

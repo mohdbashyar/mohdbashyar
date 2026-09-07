@@ -23,15 +23,14 @@
 
 ### 📁 Featured Projects
 
-#### **Autonomous Flood Response Digital Twin & MARL Drone Swarm**
-*Mar 2026 – Present | Supervised by Prof. Amelia Ritahani*
+#### **Financial Machine Learning & Generative AI Pipeline**
+*Microservice Architecture for Automated Financial Analysis*
 
-An end-to-end Digital Twin and Multi-Agent Reinforcement Learning framework for autonomous drone swarm search-and-rescue operations.
+End-to-end financial ML microservice connecting predictive telemetry with generative AI for intelligent market insights.
 
-- **Achievement**: 93.3% success rate in target acquisition scenarios
-- **Tech Stack**: Python • PyTorch • Ray RLlib (PPO) • PyBullet • Google Earth Engine • Sentinel-1 SAR
-- **Key Features**: 3D terrain reconstruction from satellite imagery, shared spatial memory map for N=3 UAV swarm
-- **Status**: Private repository (ongoing FYP 2 research)
+- **Tech Stack**: XGBoost • Google Gemini 2.5 • ChromaDB • MLflow • FastAPI • Streamlit • Docker • PostgreSQL
+- **Key Features**: Live OHLCV market ingestion, FinBERT sentiment scoring, natural language financial analysis, vector search
+- **Repository**: [mohdbashyar/financial-mle-pipeline](https://github.com/mohdbashyar/financial-mle-pipeline)
 
 ---
 
@@ -47,14 +46,16 @@ A production-ready ML system identifying high-risk product returns and triggerin
 
 ---
 
-#### **Financial Machine Learning & Generative AI Pipeline**
-*Microservice Architecture for Automated Financial Analysis*
+#### **Autonomous Flood Response Digital Twin & MARL Drone Swarm**
+*Mar 2026 – Present | Supervised by Prof. Amelia Ritahani*
 
-End-to-end financial ML microservice connecting predictive telemetry with generative AI for intelligent market insights.
+An end-to-end Digital Twin and Multi-Agent Reinforcement Learning framework for autonomous drone swarm search-and-rescue operations.
 
-- **Tech Stack**: XGBoost • Google Gemini 2.5 • ChromaDB • MLflow • FastAPI • Streamlit • Docker • PostgreSQL
-- **Key Features**: Live OHLCV market ingestion, FinBERT sentiment scoring, natural language financial analysis, vector search
-- **Repository**: [mohdbashyar/financial-mle-pipeline](https://github.com/mohdbashyar/financial-mle-pipeline)
+- **Achievement**: 93.3% success rate in target acquisition scenarios
+- **Tech Stack**: Python • PyTorch • Ray RLlib (PPO) • PyBullet • Google Earth Engine • Sentinel-1 SAR
+- **Key Features**: 3D terrain reconstruction from satellite imagery, shared spatial memory map for N=3 UAV swarm
+- **Live Demo**: https://marl-bashyar-adam-innovatex.vercel.app/
+- **Status**: Private repository (ongoing FYP 2 research)
 
 ---
 

@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/muhammad-bashyar-kamarul-anuar-4b2020413/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://bashyar-portfolio.vercel.app" target="_blank">
+  <a href="https://bashyar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
@@ -16,14 +16,52 @@
 
 - 🎓 Computer Science Student at **International Islamic University Malaysia (IIUM)**
 - 💡 Interested in **Applied AI and Data Infrastructure**
+- 🏆 **Award Winner**: 2nd Place in Best Innovative Projects (Innovatex) & 3rd Place in FYP 1 Research
 - ⚡ Fun fact: **I think I am funny. Actually, I am. I think so..**
+
+---
+
+### 📁 Featured Projects
+
+#### **Autonomous Flood Response Digital Twin & MARL Drone Swarm**
+*Mar 2026 – Present | Supervised by Prof. Amelia Ritahani*
+
+An end-to-end Digital Twin and Multi-Agent Reinforcement Learning framework for autonomous drone swarm search-and-rescue operations.
+
+- **Achievement**: 93.3% success rate in target acquisition scenarios
+- **Tech Stack**: Python • PyTorch • Ray RLlib (PPO) • PyBullet • Google Earth Engine • Sentinel-1 SAR
+- **Key Features**: 3D terrain reconstruction from satellite imagery, shared spatial memory map for N=3 UAV swarm
+- **Status**: Private repository (ongoing FYP 2 research)
+
+---
+
+#### **E-Commerce Return Risk ML Engine**
+*Full-Stack ML System for Predictive Risk Assessment*
+
+A production-ready ML system identifying high-risk product returns and triggering dynamic business interventions.
+
+- **Accuracy**: 88.2% precision with 0.94 ROC-AUC
+- **Tech Stack**: Scikit-Learn • FastAPI • Streamlit • Docker • pytest
+- **Key Features**: Random Forest classifier, Pydantic validation, REST API, interactive dashboard
+- **Live Demo & Code**: [Available on portfolio](https://bashyar.vercel.app)
+
+---
+
+#### **Financial Machine Learning & Generative AI Pipeline**
+*Microservice Architecture for Automated Financial Analysis*
+
+End-to-end financial ML microservice connecting predictive telemetry with generative AI for intelligent market insights.
+
+- **Tech Stack**: XGBoost • Google Gemini 2.5 • ChromaDB • MLflow • FastAPI • Streamlit • Docker • PostgreSQL
+- **Key Features**: Live OHLCV market ingestion, FinBERT sentiment scoring, natural language financial analysis, vector search
+- **Live Demo & Code**: [Available on portfolio](https://bashyar.vercel.app)
 
 ---
 
 ### 🌐 Portfolio
 
-Check out my portfolio website:  
-👉 [bashyar-portfolio.vercel.app](https://bashyar-portfolio.vercel.app)
+Check out my portfolio website with live demos and more projects:  
+👉 [bashyar.vercel.app](https://bashyar.vercel.app)
 
 ---
 
@@ -37,6 +75,9 @@ Check out my portfolio website:
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>

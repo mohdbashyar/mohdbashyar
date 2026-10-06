@@ -16,7 +16,7 @@
 
 - 🎓 Computer Science Student at **International Islamic University Malaysia (IIUM)**
 - 💡 Interested in **Applied AI and Data Infrastructure**
-- 🏆 **Award Winner**: 2nd Place in Best Innovative Projects (Innovatex) & 3rd Place in FYP 1 Research
+- 🏆 **Awards**: 2nd Place in Best Innovative Projects (Innovatex) & 3rd Place in FYP 1 Research
 - ⚡ Fun fact: **I think I am funny. Actually, I am. I think so..**
 
 ---
